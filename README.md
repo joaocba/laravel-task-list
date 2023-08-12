@@ -1,7 +1,7 @@
 # Task List Manager - Laravel App
 
 
-Simple task list management application built using Laravel. It allows you to efficiently manage your tasks, mark them as completed or not completed, and view detailed information.
+Simple task list management application built using Laravel 10 and TailwindCSS. It allows you to efficiently manage your tasks, mark them as completed or not completed, and view detailed information.
 
 ## Features 🚀
 
