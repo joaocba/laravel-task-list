@@ -11,7 +11,7 @@ Simple task list management application built using Laravel. It allows you to ef
 
 ## Screenshots 🖼️
 
-![alt text](?raw=true)
+![alt text](https://github.com/joaocba/laravel-task-list/blob/main/screenshots/main_page_task_list.png?raw=true)
 
 ## Usage 🛠️
 
